@@ -1,4 +1,4 @@
-name: Continuous Translation
+name: jp Workflow
 
 on:
   workflow_dispatch:
